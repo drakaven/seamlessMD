@@ -1,0 +1,9 @@
+I would try to find the edge cases for the tests as well as at high and low volume.
+
+I create test for:
+
+Daylight savings time
+Leap Years
+End/Start of the Month
+End/start of the Year
+Create Multiple Appointments on the same day for the same name
